@@ -9,3 +9,5 @@ Yet, another change!
 This is my GUI change.
 
 Full speed!
+
+Full speed with terminal!
